@@ -1,0 +1,33 @@
+2.-
+
+paso 2:
+
+c.1)	Router
+c.2)	4
+c.3)	2
+c.4)	2
+c.5)	0-4
+
+d.1) Porque no hemos guardado ninguna configuración.Actualmente está en la RAM.
+
+Paso 3:
+
+c.1) Porque es necesario para advertir a los usuarios sobre que el acceso es prohibido o para informar a algún tipo de personal.
+c.2) login
+
+d.1) El password enable secret sobrescribe enable password. Si ambos están configurados se debe usar enable secret password.
+d.2) Encripta las contraseñas actuales y futuras.
+
+3.-
+
+Paso 1:
+
+a.1) Copy running-config startup-config
+a.2) Copy r s
+a.3) show startup-config
+
+Paso 2:
+
+a.1) 3
+a.2) Archivo 3 (.bin)
+a.3) Longitud y .bin
